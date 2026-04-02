@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![Ethan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **ethanh-roe/ethanh-roe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
