@@ -2,7 +2,7 @@
 
 I'm Ethan Roe, a senior studying Computer Science at Iowa State University.
 
-[![Ethan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanh-roe)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ethan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanh-roe&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **ethanh-roe/ethanh-roe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
